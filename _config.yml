@@ -1,0 +1,28 @@
+name: 10000 Miles of Art
+favicon: null
+layout_spectrum: 0.0754589878488332
+typography_spectrum: 0.6631609499454498
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.5606741288211197
+  lightness: 0.04351994930766523
+  saturation: 0.7849897141568363
+  rhythmicContrast: 0.3528894782066345
+purpose: []

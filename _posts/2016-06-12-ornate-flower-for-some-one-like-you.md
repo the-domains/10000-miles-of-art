@@ -1,18 +1,18 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-12T14:50:23.727Z'
-dateModified: '2016-06-12T14:50:11.585Z'
+datePublished: '2016-06-12T15:18:03.472Z'
+dateModified: '2016-06-12T15:17:46.075Z'
 title: ''
 author: []
+sourcePath: _posts/2016-06-12-ornate-flower-for-some-one-like-you.md
 authors: []
 publisher: null
-starred: true
-sourcePath: _posts/2016-06-12-ornate-flower-for-some-one-like-you.md
+starred: false
 url: ornate-flower-for-some-one-like-you/index.html
 _type: Article
 

@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: ''
-datePublished: '2016-06-12T20:50:26.305Z'
-dateModified: '2016-06-12T20:49:22.527Z'
+datePublished: '2016-06-12T23:51:22.017Z'
+dateModified: '2016-06-12T23:42:39.991Z'
 title: ''
 author: []
 authors: []
 publisher: null
-starred: false
 sourcePath: _posts/2016-06-12-life-must-dance-with-death-to-live.md
+starred: true
 url: life-must-dance-with-death-to-live/index.html
 _type: Article
 

@@ -4,21 +4,21 @@
         <description><![CDATA[Todd Rigione]]></description>
         <link>https://thegrid.ai/10000-miles-of-art/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 08:02:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2016 14:46:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/10000-miles-of-art/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8410c386-015b-461f-9c4a-cced461048d7.jpg">]]></description>
+            <link>https://thegrid.ai/10000-miles-of-art/a-wonderful-piece--bob-miller--a-south-dakota-artist/index.html</link>
+            <guid isPermaLink="false">f32a33b4-3abb-4a27-af8f-e4f952cc7de0</guid>
+            <pubDate>Sun, 12 Jun 2016 14:46:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5782f682-8b6c-48a7-ba96-ee9dcc53a752.jpg">]]></description>
             <link>https://thegrid.ai/10000-miles-of-art/d561a09d-c659-4e87-b6a6-a01891b415f2/index.html</link>
             <guid isPermaLink="false">d561a09d-c659-4e87-b6a6-a01891b415f2</guid>
             <pubDate>Sun, 12 Jun 2016 08:02:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8410c386-015b-461f-9c4a-cced461048d7.jpg">]]></description>
-            <link>https://thegrid.ai/10000-miles-of-art/a-wonderful-piece--bob-miller--a-south-dakota-artist/index.html</link>
-            <guid isPermaLink="false">f32a33b4-3abb-4a27-af8f-e4f952cc7de0</guid>
-            <pubDate>Sun, 12 Jun 2016 07:46:57 GMT</pubDate>
         </item>
     </channel>
 </rss>

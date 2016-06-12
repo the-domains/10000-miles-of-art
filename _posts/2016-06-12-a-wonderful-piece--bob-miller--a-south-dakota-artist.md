@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: A wonderful piece . Bob Miller . A South Dakota artist.
-datePublished: '2016-06-12T07:46:57.730Z'
-dateModified: '2016-06-12T07:42:57.280Z'
+datePublished: '2016-06-12T14:46:06.915Z'
+dateModified: '2016-06-12T14:45:56.594Z'
 title: ''
 author: []
 authors: []
 publisher: null
-starred: false
 sourcePath: _posts/2016-06-12-a-wonderful-piece--bob-miller--a-south-dakota-artist.md
+starred: true
 url: a-wonderful-piece--bob-miller--a-south-dakota-artist/index.html
 _type: Article
 

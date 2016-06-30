@@ -1,7 +1,7 @@
 name: 10000 Miles of Art
 favicon: null
-layout_spectrum: 0.0754589878488332
-typography_spectrum: 0.6631609499454498
+layout_spectrum: 1
+typography_spectrum: 0.61064
 title: Todd Rigione
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.5606741288211197
+    - '#352923'
+    - '#e2d599'
+    - '#678f94'
+    - '#c35f2a'
+    - '#ac293b'
+  brandStrength: 0.625
   lightness: 0.04351994930766523
   saturation: 0.7849897141568363
   rhythmicContrast: 0.3528894782066345
